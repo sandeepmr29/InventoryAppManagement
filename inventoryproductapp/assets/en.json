@@ -1,0 +1,14 @@
+{
+  "products_text": "Products",
+  "welcome": "Welcome to the app",
+  "logout": "Log out",
+  "edit_product_text": "Edit Product",
+  "select_fromgallery_text": "Select from Gallery",
+  "product_name_text": "Product Name",
+  "costprice_text": "Cost Price",
+  "availablequantity_text": "Available Quantity",
+  "description_text": "Description",
+  "enter_text": "Enter a tag"
+
+
+}
